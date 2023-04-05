@@ -9,11 +9,10 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "babel-core": "^6.26.3",
-    "babel-jest": "^25.1.0",
+    "babel-core": "^4.7.16",
+    "babel-jest": "^25.5.1",
     "babel-preset-env": "^1.7.0",
-    "jest": "^25.1.0",
-    "regenerator-runtime": "^0.13.5"
-  },
-  "dependencies": {}
+    "jest": "^29.5.0",
+    "regenerator-runtime": "^0.13.11"
+  }
 }

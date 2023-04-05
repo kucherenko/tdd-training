@@ -6,7 +6,7 @@
   "scripts": {
     "test": "ava"
   },
-  "author": "",
+  "author": "Andrey Kucherenko",
   "license": "MIT",
   "devDependencies": {
     "@ava/babel": "^1.0.1",

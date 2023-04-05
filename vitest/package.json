@@ -1,0 +1,20 @@
+{
+  "name": "vitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage",
+    "test:ui": "vitest --ui",
+    "test:run": "vitest run"
+  },
+  "author": "Andrey Kucherenko",
+  "license": "MIT",
+  "devDependencies": {
+    "@vitest/ui": "^0.29.8",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.3",
+    "vitest": "^0.29.8"
+  }
+}
